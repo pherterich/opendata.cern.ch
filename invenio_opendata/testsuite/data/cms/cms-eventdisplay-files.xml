@@ -41,6 +41,9 @@
       <subfield code="a">/BTau/Run-2010B-Apr21ReReco-v1/AOD</subfield>
       <subfield code="w">1</subfield>
     </datafield>
+    <datafield tag="942" ind1=" " ind2=" ">
+      <subfield code="e">Collision energy: 7TeV</subfield>
+    </datafield>
     <datafield tag="980" ind1=" " ind2=" ">
       <subfield code="a">CMS-Derived-Datasets</subfield>
     </datafield>
@@ -93,6 +96,9 @@
     <datafield tag="772" ind1=" " ind2=" ">
       <subfield code="a">/EGMonitor/Run-2010B-Apr21ReReco-v1/AOD</subfield>
       <subfield code="w">2</subfield>
+    </datafield>
+    <datafield tag="942" ind1=" " ind2=" ">
+      <subfield code="e">Collision energy: 7TeV</subfield>
     </datafield>
     <datafield tag="980" ind1=" " ind2=" ">
       <subfield code="a">CMS-Derived-Datasets</subfield>
